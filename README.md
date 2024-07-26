@@ -8,31 +8,21 @@ Welcome to my GitHub profile! I'm a French freelance designer and developer livi
 
 - **Location**: Istanbul, Turkey & Paris, France
 - **Occupation**: Freelance Designer & Developer
-- **Languages**: French (native), English (fluent)
-
 ---
 
 ## 🔧 Skills & Tools
 
-- **Web Development**: Webflow, HTML, CSS, JavaScript, GSAP
+- **Web Development**: Webflow, HTML, CSS, JavaScript, GSAP, Barbara.js
 - **Design**: Figma
-- **Languages**: French, English
-
----
-
-## 📚 Interests
-
-- **Travel**: Passionate about discovering new places and cultures.
-- **Books**: Interested in books that talk about traveling and give motivation to explore the world.
-- **Tech**: Always keen to learn about new technologies and tools.
+- **Languages**: French (native), English (fluent)
 
 ---
 
 ## 📫 Contact Me
 
 - **Email**: gregoire.geoffroy@gmail.com
-- **GitHub**: [GregoireGeoffroy](https://github.com/yourusername)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/gregoiregeoffroy/)
+- **GitHub**: [GregoireGeoffroy](https://github.com/GregoireGeoffroy)
+- **LinkedIn**: [gregoiregeoffroy](https://www.linkedin.com/in/gregoiregeoffroy/)
 
 Feel free to reach out for collaborations, freelance opportunities, or just to connect!
 
