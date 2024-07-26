@@ -4,12 +4,6 @@ Welcome to my GitHub profile! I'm a French freelance designer and developer livi
 
 ---
 
-## 🌟 About Me
-
-- **Location**: Istanbul, Turkey & Paris, France
-- **Occupation**: Freelance Designer & Developer
----
-
 ## 🔧 Skills & Tools
 
 - **Web Development**: Webflow, HTML, CSS, JavaScript, GSAP, Barbara.js
