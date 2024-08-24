@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a French freelance designer and developer livi
 
 - **Frontend**: HTML, CSS, JavaScript, React, GSAP, Barbara.js
 - **Backend**: Node.js, Express
-- **Databases**: SQL
+- **Databases**: SQL, PostgreSQL
 - **Design**: Figma, Responsive Design (CSS Flexbox, Grid)
 - **Languages**: French (native), English (fluent)
 
