@@ -6,8 +6,10 @@ Welcome to my GitHub profile! I'm a French freelance designer and developer livi
 
 ## 🔧 Skills & Tools
 
-- **Web Development**: Webflow, HTML, CSS, JavaScript, GSAP, Barbara.js
-- **Design**: Figma
+- **Frontend**: HTML, CSS, JavaScript, React, GSAP, Barbara.js
+- **Backend**: Node.js, Express
+- **Databases**: SQL
+- **Design**: Figma, Responsive Design (CSS Flexbox, Grid)
 - **Languages**: French (native), English (fluent)
 
 ---
