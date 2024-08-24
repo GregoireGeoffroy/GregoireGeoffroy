@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Greg!
 
-Welcome to my GitHub profile! I'm a French freelance designer and developer living between Istanbul and Paris. With a passion for creating beautiful, functional websites, I specialize in Webflow development.
+Welcome to my GitHub profile! I'm a French freelance designer and developer living between Istanbul and Paris.
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **Frontend**: HTML, CSS, JavaScript, React, GSAP, Barbara.js
+- **Frontend**: HTML, CSS, JavaScript, React, GSAP, Barbara.js, Webflow
 - **Backend**: Node.js, Express
 - **Databases**: SQL, PostgreSQL
 - **Design**: Figma, Responsive Design (CSS Flexbox, Grid)
